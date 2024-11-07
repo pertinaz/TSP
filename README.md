@@ -6,4 +6,3 @@ Implementación de A* con heurísticas de Árbol de Expansión Mínima y Colonia
 - **aco.py:** Implementación de la heurística de Colonia de Hormigas (ACO) y su uso en A*.
 - **a_star_combined.py:** Implementación de A* utilizando las heurísticas combinadas (MST + ACO).
 - **main.py:** Archivo principal que crea el grafo, llama a los algoritmos A*, y evalúa su desempeño (tiempo de ejecución y calidad de la solución).
-- **performance_evaluation.py** (opcional): Funciones adicionales para evaluar el rendimiento de las implementaciones y comparar los resultados.
